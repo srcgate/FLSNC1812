@@ -8,4 +8,4 @@ chmod +x install.sh
 # Cracked Flussonic license key
 l4|8Ku8ypPgOUySHysCdkFHW0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
 # Flussonic commands
-/etc/init.d/flussonic "start|stop|run|restart|reload"
+/etc/init.d/flussonic " start | stop | run | restart | reload "
