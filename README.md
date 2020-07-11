@@ -5,6 +5,5 @@ wget https://raw.githubusercontent.com/abanobem/Flussonic-18.12/master/install.s
 chmod +x install.sh
 
 ./install.sh
-
-# Cracked flussonic license key
+# Cracked Flussonic license key
 l4|8Ku8ypPgOUySHysCdkFHW0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
