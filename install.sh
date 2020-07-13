@@ -20,6 +20,5 @@ dpkg -i flussonic-ffmpeg_4.6_amd64.deb
 dpkg -i flussonic-erlang_21.1.4_amd64.deb
 dpkg -i flussonic_18.12.1_amd64.deb
 
-/etc/init.d/php-fpm restart
 /etc/init.d/apache2 restart
 /etc/init.d/flussonic start
